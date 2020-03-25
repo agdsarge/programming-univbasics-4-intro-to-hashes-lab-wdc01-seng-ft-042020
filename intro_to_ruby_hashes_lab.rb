@@ -3,8 +3,7 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
-  return {dog: alphonse}
+  return {name: alphonse, breed: corgi}
 end
 
 def pioneer
