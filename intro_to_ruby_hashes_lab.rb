@@ -1,10 +1,10 @@
 def new_hash
-  return empty_hash = {}
+  return {}
 end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  return valid_hase = {dog: alphonse}
+  return {dog: alphonse}
 end
 
 def pioneer
