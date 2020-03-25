@@ -13,6 +13,8 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
+  ID_num = rand(100)
+  return {id: ID_num}
 end
 
 def my_hash_creator(key, value)
